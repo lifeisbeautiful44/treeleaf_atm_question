@@ -1,0 +1,13 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–£_8’É¸µ½1
+H
+java:S1168!"+Return an empty collection instead of null.(¥¹ï8î–¶½1
+€
+java:S1128"^Remove this unused import 'com.progressoft.induction.atm.exceptions.AccountNotFoundException'.(ÎîÌòúÿÿÿÿ8ï–¶½1
+~
+java:S1128"bRemove this unused import 'com.progressoft.induction.atm.exceptions.NotEnoughMoneyInATMException'.(¢İj8ğ–¶½1
+M
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ğ–¶½1
+K
+java:S1128".Remove this unused import 'java.util.EnumMap'.(ÅıìĞ8ñ–¶½1

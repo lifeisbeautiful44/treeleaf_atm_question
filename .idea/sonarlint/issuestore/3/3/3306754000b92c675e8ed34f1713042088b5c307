@@ -1,0 +1,7 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(àèÜÿÿÿÿÿ8»Á¾³½1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–£_8½Á¾³½1
+G	java:S106D"+Replace this use of System.out by a logger.(³¨Å8´Ğš¶½1
+}
+java:S1128"`Remove this unused import 'com.progressoft.induction.atm.exceptions.InsufficientFundsException'.(˜õÊä8œîš¶½1
